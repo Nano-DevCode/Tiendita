@@ -1,0 +1,28 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.log
+
+# Sensitive Files, Keys & Secrets
+.env
+.env.*
+*.key
+*.token
+*.pem
+*.credentials
+*.secret
+
+# Training Runs, Logs & Temporary Files
+runs/
+tickets/*.txt
+ProyectoFinalIA.v5i.yolov8/
+assets/ProyectoFinalIA.v5i.yolov8/
+
+# Operating System & IDE Artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
